@@ -1,0 +1,7 @@
+/Users/ryanbass/Desktop/CretacousPark/obj/Debug/net5.0/CretacousPark.csproj.AssemblyReference.cache
+/Users/ryanbass/Desktop/CretacousPark/obj/Debug/net5.0/CretacousPark.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryanbass/Desktop/CretacousPark/obj/Debug/net5.0/CretacousPark.AssemblyInfoInputs.cache
+/Users/ryanbass/Desktop/CretacousPark/obj/Debug/net5.0/CretacousPark.AssemblyInfo.cs
+/Users/ryanbass/Desktop/CretacousPark/obj/Debug/net5.0/CretacousPark.csproj.CoreCompileInputs.cache
+/Users/ryanbass/Desktop/CretacousPark/obj/Debug/net5.0/CretacousPark.MvcApplicationPartsAssemblyInfo.cs
+/Users/ryanbass/Desktop/CretacousPark/obj/Debug/net5.0/CretacousPark.MvcApplicationPartsAssemblyInfo.cache
